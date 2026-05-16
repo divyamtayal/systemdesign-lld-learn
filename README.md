@@ -1,37 +1,45 @@
-# System Design & LLD Learning Repository
+# System Design & Low Level Design
 
-> A complete repository for mastering:
->
-> - High Level Design (HLD)
-> - Low Level Design (LLD)
-> - Scalable Systems
-> - Design Patterns
-> - Real-world Architecture
-> - Interview Preparation
+> A comprehensive repository for mastering Low Level Design (LLD), Design Patterns, Object-Oriented Design, and scalable backend engineering concepts using Java.
 
 ---
 
-## Repository Overview
+# Repository Overview
 
-This repository contains structured notes, architecture diagrams,
-real-world case studies, and machine coding projects for mastering
-system design and low-level design interviews.
+This repository contains:
 
-The goal is to deeply understand:
+- Machine Coding Problems
+- Low Level Design Implementations
+- Design Patterns
+- Object-Oriented Design Concepts
+- Real-world System Modeling
+- Interview Preparation Content
 
-- scalable distributed systems
-- backend architecture
-- object-oriented design
-- production engineering concepts
-- interview-oriented problem solving
+The goal of this repository is to build strong software engineering fundamentals and deeply understand how scalable systems are designed and implemented.
 
 ---
 
 # Repository Structure
 
 ```bash
-docs/
-projects/
-diagrams/
-templates/
+src/
+│
+├── machine_coding/
+│   ├── parking_lot/
+│   ├── splitwise/
+│   ├── snake_and_ladder/
+│   ├── movie_booking_system/
+│   ├── tic_tac_toe/
+│   ├── elevator_system/
+│   └── ...
+│
+├── design_patterns/
+│   ├── strategy/
+│   ├── observer/
+│   ├── factory/
+│   ├── singleton/
+│   ├── decorator/
+│   └── ...
+│
+└── App.java
 ```
