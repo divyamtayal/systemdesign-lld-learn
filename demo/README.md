@@ -1,18 +1,37 @@
-## Getting Started
+# System Design & LLD Learning Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> A complete repository for mastering:
+>
+> - High Level Design (HLD)
+> - Low Level Design (LLD)
+> - Scalable Systems
+> - Design Patterns
+> - Real-world Architecture
+> - Interview Preparation
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Repository Overview
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+This repository contains structured notes, architecture diagrams,
+real-world case studies, and machine coding projects for mastering
+system design and low-level design interviews.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+The goal is to deeply understand:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- scalable distributed systems
+- backend architecture
+- object-oriented design
+- production engineering concepts
+- interview-oriented problem solving
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Repository Structure
+
+```bash
+docs/
+projects/
+diagrams/
+templates/
+```
