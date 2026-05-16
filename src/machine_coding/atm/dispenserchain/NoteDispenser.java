@@ -1,7 +1,4 @@
 package machine_coding.atm.dispenserchain;
-
-import machine_coding.atm.dispenserChain.DispenseChain;
-
 public class NoteDispenser implements DispenseChain {
     private DispenseChain nextChain;
     private final int noteValue;

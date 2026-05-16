@@ -1,5 +1,4 @@
-package design_patterns.chain_of_resp;
-
+package chain_of_resp;
 public class ChainOfRespDemo {
     public static void main(String[] args) {
         CashHandler hundredHandler = new HundredDollarHandler();

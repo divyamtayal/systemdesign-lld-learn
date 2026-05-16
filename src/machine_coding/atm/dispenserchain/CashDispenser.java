@@ -1,7 +1,5 @@
 package machine_coding.atm.dispenserchain;
 
-import machine_coding.atm.dispenserChain.DispenseChain;
-
 public class CashDispenser {
     private final DispenseChain chain;
 
